@@ -130,7 +130,7 @@ Therefore the expressions are not evaluated until the relevant line is executed.
 
 ## See also
 
-- [`var` statement](/en-US/docs/Web/JavaScript/Reference/Statements/var) — MDN
+
 - [`let` statement](/en-US/docs/Web/JavaScript/Reference/Statements/let) — MDN
 - [`const` statement](/en-US/docs/Web/JavaScript/Reference/Statements/const) — MDN
 - [`function` statement](/en-US/docs/Web/JavaScript/Reference/Statements/function) — MDN
